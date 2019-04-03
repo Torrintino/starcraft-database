@@ -5,11 +5,13 @@
 ### GET Record
 
 HTTP: GET
+
 URL: /records/[id]
 
 ### WRITE Record
 
 HTTP: PUT
+
 URL: /records
 
 ```
